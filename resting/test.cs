@@ -9,5 +9,6 @@ namespace resting
     class Test
     {
         string _seven = "How";  
+        int d = 8; 
     }
 }
