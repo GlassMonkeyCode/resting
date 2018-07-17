@@ -10,6 +10,7 @@ namespace resting
     {
         /// <summary>
         /// The main entry point for the application.
+        /// // how
         /// </summary>
         [STAThread]
         static void Main()
